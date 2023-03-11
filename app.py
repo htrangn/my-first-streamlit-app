@@ -1,4 +1,5 @@
 import streamlit as st
+import plotly.graph_objects as go
 
 st.title("GIẢI PHƯƠNG TRÌNH BẬC NHẤT")
 a = st.number_input('Tham số a')
